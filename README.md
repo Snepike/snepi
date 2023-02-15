@@ -1,2 +1,3 @@
 # snepi
-# GitHub server
+# GitHub szerver
+# lokális repo
